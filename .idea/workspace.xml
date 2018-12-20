@@ -18,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="106">
-              <caret line="1883" column="109" selection-start-line="1883" selection-start-column="109" selection-end-line="1883" selection-end-column="109" />
+            <state relative-caret-position="339">
+              <caret line="445" column="59" selection-start-line="445" selection-start-column="59" selection-end-line="445" selection-end-column="59" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -124,6 +124,7 @@
       <find>I don</find>
       <find>p{pa</find>
       <find>Role</find>
+      <find>linke</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -207,7 +208,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26536000" />
+    <option name="totallyTimeSpent" value="27424000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -252,8 +253,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="106">
-          <caret line="1883" column="109" selection-start-line="1883" selection-start-column="109" selection-end-line="1883" selection-end-column="109" />
+        <state relative-caret-position="339">
+          <caret line="445" column="59" selection-start-line="445" selection-start-column="59" selection-end-line="445" selection-end-column="59" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
