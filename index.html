@@ -555,7 +555,7 @@
                             <h3>IDEATION</h3>
                             <p>After analysing our data, we walked the wall and brainstormed 33 design ideas.</p>
 
-                             <img class="img-responsive img-centered" src="img/smartScheduler/ideation.jpg" alt="">
+                             <img class="img-responsive img-centered" src="img/smartScheduler/ideation.jpg" alt="" >
                             <br>
                             <h4>PERSONAS</h4>
                             <p>From our interviews, we made  two personas to keep us focused while creating our designs. </p>
@@ -570,10 +570,10 @@
                             <h3>DESIGN ALTERNATIVES</h3>
                             <p>Based on urgency of needs and feasibility of design ideas, we chose 3 ideas to explore in greater depth.</p>
 
-                            <img class="img-responsive img-centered" src="img/smartScheduler/design%20alternatives.png" alt="" style="padding: 5px">
+                            <img class="img-responsive img-centered" src="img/smartScheduler/design%20alternatives.png" alt="" style="padding: 5px;">
                             <div class="row">
                                 <div class="col-md-4" style="padding-left: 3px;padding-right: 3px;">
-                                    <p style="color:#26a69a;padding-left: 5px;padding-right: 5px;margin-bottom: 0px"><b>SMART SCHEDULER</b></p>
+                                    <p style="color:#26a69a;padding-left: 5px;padding-right: 5px;margin-bottom: 0px;"><b>SMART SCHEDULER</b></p>
                                     <p style="color:#80cbc4;padding-left: 5px;padding-right: 5px;padding-top: 0px; margin-bottom: 15px" align="left">Addressed Pain Point: Daily Scheduling</p>
                                     <p style="padding-left: 5px;padding-right: 5px;margin-bottom: 3px">Wall mountable screen that enables stay at home parents to keep track of their schedule and
                                         engage in self-care activities. Replaces calendars & schedulers.</p>
@@ -680,7 +680,12 @@
                             <h3>HI-FIDELITY PROTOTYPE</h3>
                             <img class="img-responsive img-centered" src="img/smartScheduler/labeledMainScreen.png" style="padding-left: 0px;padding-right: 0px;">
                             <img class="img-responsive img-centered" src="img/smartScheduler/labeled_Expanded_footer.png" width="75%" style="padding-left: 40px;">
-
+                            <h4>Clickable Prototype</h4>
+                            <p style="padding-bottom: 0px">Feel free to interact with the final prototype:</p>
+                            <div class="embed-responsive embed-responsive-16by9" style="padding-bottom: 85%;background: #F4F9F8">
+                               <!-- <iframe style="padding-left: 170px;padding-right: 170px" width="300" height="200" src="https://xd.adobe.com/embed/87402818-88fe-4ce2-7a58-a74fb92a99a6-f171/" frameborder="0"></iframe>
+                              -->  <iframe style="padding-right: 30px;padding-left: 30px;/*border: groove #2F2F2F;*/" width="100%" height="100%" src="https://xd.adobe.com/embed/87402818-88fe-4ce2-7a58-a74fb92a99a6-f171/" frameborder="1"></iframe>
+                            </div>
                             <button type="button" class="btn btn-primary" data-dismiss="modal"><i class="fa fa-times"></i> Close Project</button>
                         </div>
                     </div>
@@ -837,9 +842,10 @@
                                 and tested a novel interaction toolkit that enables all video games to be accessible by default.</b>
                             </span></p>
                              -->
-
-                            <iframe width="1100" height="600" src="https://www.youtube.com/embed/jgdj1k7g-1E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                           <br><br>
+                            <div class="embed-responsive embed-responsive-16by9">
+                                <iframe width="1100" height="600" src="https://www.youtube.com/embed/jgdj1k7g-1E" frameborder="0" allowfullscreen></iframe>
+                            </div>
+                            <br><br>
                             <div class="left-vertical-line" style="border-left-color: #8b572a;margin-bottom: 30px">
                                  <span style="font-size: larger"> This project was presented at
                                        <a href="http://assets18.sigaccess.org"> ASSETS 2018 </a> conference. <a href="https://dl.acm.org/citation.cfm?id=3241025">
@@ -2002,8 +2008,9 @@
                                     <h4>AFFINITY MAPPING</h4>
                                 <p>After conducting interviews and think aloud sessions, we performed affinity mapping to group
                     issues in order to obtain a set of broad problems we should cater to. <br>
-            <img class="img-responsive img-centered" src="img/schlotzskys/affinityMaps.jpg" alt="">
-            <img class="img-responsive img-centered" src="img/schlotzskys/Affinity_analysis_schlotzskys.png" alt="" width="80%">
+            <a href="img/schlotzskys/affinityMaps.jpg"><img class="img-responsive img-centered"
+           src="img/schlotzskys/affinityMaps.jpg" alt="" style="padding-right: 5px;padding-left: 5px"></a>
+            <img class="img-responsive img-centered" src="img/schlotzskys/Affinity_analysis_schlotzskys.png" alt="" width="70%">
 
 
             <!-- The group of user needs identified were:<br></p>
@@ -2053,12 +2060,43 @@
                     </div>
 
                     <h4>PERSONAS</h4>
-                    <div class="row">
-                        <div class="col-lg-6 md-6 sm-12">
-                            <img class="img-responsive img-centered" src="img/schlotzskys/Persona-%20Alex.jpg" alt="">
+
+            <!--<div class="w3-content w3-display-container">
+                <img class="mySlides" src="img/schlotzskys/Persona-%20Alex.jpg" style="width:80%">
+                <img class="mySlides" src="img/schlotzskys/Persona-%20Olivia.jpg" style="width:80%">
+
+                <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+                <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
+            </div>
+
+            <script>
+                var slideIndex = 1;
+                showDivs(slideIndex);
+
+                function plusDivs(n) {
+                    showDivs(slideIndex += n);
+                }
+
+                function showDivs(n) {
+                    var i;
+                    var x = document.getElementsByClassName("mySlides");
+                    if (n > x.length) {slideIndex = 1}
+                    if (n < 1) {slideIndex = x.length}
+                    for (i = 0; i < x.length; i++) {
+                        x[i].style.display = "none";
+                    }
+                    x[slideIndex-1].style.display = "block";
+                }
+            </script>-->
+
+                    <div class="row" style="padding-left: 0px;padding-right: 0px">
+                        <div class="col-lg-6 md-6 sm-12" style="padding-left: 0px;padding-right: 0px">
+                            <a href="img/schlotzskys/Persona-%20Alex.jpg"> <img class="img-responsive img-centered" src="img/schlotzskys/Persona-%20Alex.jpg"
+                                                                                alt="" style="padding-left: 0px;padding-right: 0px"></a>
                          </div>
-                        <div class="col-lg-6 md-6 sm-12">
-                             <img class="img-responsive img-centered" src="img/schlotzskys/Persona-%20Olivia.jpg" alt="">
+                        <div class="col-lg-6 md-6 sm-12" style="padding-left: 0px;padding-right: 0px">
+                            <a href="img/schlotzskys/Persona-%20Olivia.jpg"> <img class="img-responsive img-centered"
+                                                                                  style="padding-left: 0px;padding-right: 0px"src="img/schlotzskys/Persona-%20Olivia.jpg" alt=""></a>
                         </div>
                     </div>
 
