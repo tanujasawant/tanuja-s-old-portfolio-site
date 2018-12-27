@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1341e6a-9d3d-4452-90f6-e9be52a9804c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/css/agency.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/agency.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/schlotzskys/painPoints.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/schlotzskys/painPoints.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -18,8 +20,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="580">
-              <caret line="263" column="22" selection-start-line="216" selection-start-column="15" selection-end-line="263" selection-end-column="22" />
+            <state relative-caret-position="300">
+              <caret line="2284" column="12" selection-start-line="2282" selection-start-column="8" selection-end-line="2284" selection-end-column="11" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -105,6 +107,7 @@
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#a#0;n#p#2;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#p#2;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#3;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#1;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#img#0;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -119,6 +122,9 @@
                 <element signature="n#style#0;n#div#2;n#div#3;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#0;n#div#2;n#div#3;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#p#2;n#div#2;n#div#3;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#3;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -127,8 +133,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/agency.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="6625" selection-start-line="1" selection-start-column="6625" selection-end-line="1" selection-end-column="6625" />
+            <state>
+              <caret column="161" lean-forward="true" selection-start-column="161" selection-end-column="161" />
             </state>
           </provider>
         </entry>
@@ -167,8 +173,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>about</find>
-      <find>ABOUT</find>
       <find>affinity mapp</find>
       <find>affinity ma</find>
       <find>vert</find>
@@ -193,10 +197,12 @@
       <find>bodyscan</find>
       <find>brainstorming</find>
       <find>TASK ANALYSIS</find>
-      <find>DESIGN ALTERNATIVES</find>
       <find>PROTOTYPING</find>
       <find>Microsoft Research</find>
       <find>empathy map</find>
+      <find>DESIGN AL</find>
+      <find>DESIGN ALTERNATIVES</find>
+      <find>p{</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -286,7 +292,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75345000" />
+    <option name="totallyTimeSpent" value="78195000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -341,15 +347,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/agency.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="6625" selection-start-line="1" selection-start-column="6625" selection-end-line="1" selection-end-column="6625" />
+        <state>
+          <caret column="161" lean-forward="true" selection-start-column="161" selection-end-column="161" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="580">
-          <caret line="263" column="22" selection-start-line="216" selection-start-column="15" selection-end-line="263" selection-end-column="22" />
+        <state relative-caret-position="300">
+          <caret line="2284" column="12" selection-start-line="2282" selection-start-column="8" selection-end-line="2284" selection-end-column="11" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -435,6 +441,7 @@
             <element signature="n#style#0;n#img#0;n#div#0;n#div#1;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#a#0;n#p#2;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#p#2;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#3;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#1;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#img#0;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -449,6 +456,9 @@
             <element signature="n#style#0;n#div#2;n#div#3;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#0;n#div#2;n#div#3;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#p#2;n#div#2;n#div#3;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#3;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#1;n#div#3;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#3;n#div#0;n#div#13;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
         </state>
       </provider>
