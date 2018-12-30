@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1341e6a-9d3d-4452-90f6-e9be52a9804c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/img/socialTouch/forearm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/socialTouch/tactibit_back.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/socialTouch/tactibit_front.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/socialTouch/tactibit_front2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/socialTouch/tactibit_front3.jpg" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -23,8 +18,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="137">
-              <caret line="788" column="32" selection-start-line="788" selection-start-column="32" selection-end-line="788" selection-end-column="32" />
+            <state relative-caret-position="-1823">
+              <caret line="1187" lean-forward="true" selection-start-line="1187" selection-end-line="1187" />
               <folding>
                 <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -288,12 +283,12 @@
       <workItem from="1541772075251" duration="1206000" />
       <workItem from="1544984390072" duration="7223000" />
       <workItem from="1545071965910" duration="4626000" />
-      <workItem from="1546017621314" duration="19628000" />
+      <workItem from="1546017621314" duration="20259000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98959000" />
+    <option name="totallyTimeSpent" value="99590000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -324,8 +319,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="137">
-          <caret line="788" column="32" selection-start-line="788" selection-start-column="32" selection-end-line="788" selection-end-column="32" />
+        <state relative-caret-position="-1823">
+          <caret line="1187" lean-forward="true" selection-start-line="1187" selection-end-line="1187" />
           <folding>
             <element signature="n#style#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#0;n#p#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
