@@ -28,7 +28,7 @@ body {
   height: 100%;
   margin-left: -250px;
   overflow-y: auto;
-  background: #000;
+  background: #F4F9F8;
   -webkit-transition: all 0.5s ease;
   -moz-transition: all 0.5s ease;
   -o-transition: all 0.5s ease;
@@ -64,19 +64,29 @@ body {
 
 .sidebar-nav li {
   text-indent: 20px;
-  line-height: 40px;
+  line-height: 10px;
+  margin: 0px;
+  padding: 0;
+  list-style: none;
+  color: rgb(100, 100, 100);
+
 }
 
 .sidebar-nav li a {
   display: block;
   text-decoration: none;
-  color: #999999;
+  font-weight: 100;
+  color: rgb(30,30,30);
+  font-family: "Roboto", "Helvetica Neue","Helvetica","Arial",sans-serif;
+  position: relative;
+  padding: 8px 7px;
 }
 
 .sidebar-nav li a:hover {
-  text-decoration: none;
-  color: #fff;
+  text-decoration: underline;
+  /*color: #fff;*/
   background: rgba(255, 255, 255, 0.2);
+
 }
 
 .sidebar-nav li a:active, .sidebar-nav li a:focus {
@@ -94,8 +104,28 @@ body {
 }
 
 .sidebar-nav>.sidebar-brand a:hover {
-  color: #fff;
+  text-decoration: underline;
   background: none;
+}
+
+.sidebar-nav li a.sub {
+  color: rgb(100, 100, 100);
+  font-size: 13px;
+  letter-spacing: .10em;
+  font-family: "Roboto", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-weight: 300;
+}
+
+
+.sidebar-nav li.font_padding{
+  padding-top: 15px;
+  color: rgb(30,30,30);
+  text-decoration: none;
+  font-size: 17px;
+  position: relative;
+  letter-spacing: .1em;
+  font-family: "Roboto", "Helvetica Neue","Helvetica","Arial",sans-serif;
+  text-transform: uppercase;
 }
 
 @media(min-width:768px) {
