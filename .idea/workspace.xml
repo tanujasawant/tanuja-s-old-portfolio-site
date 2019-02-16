@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b1341e6a-9d3d-4452-90f6-e9be52a9804c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/AccessibleOnlineOrdering.html" beforeDir="false" afterPath="$PROJECT_DIR$/AccessibleOnlineOrdering.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/MSR.html" beforeDir="false" afterPath="$PROJECT_DIR$/MSR.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tactibits.html" beforeDir="false" afterPath="$PROJECT_DIR$/Tactibits.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VRwithAI.html" beforeDir="false" afterPath="$PROJECT_DIR$/VRwithAI.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/smartScheduler.html" beforeDir="false" afterPath="$PROJECT_DIR$/smartScheduler.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -38,11 +33,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/smartScheduler.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="130" column="32" lean-forward="true" selection-start-line="129" selection-start-column="32" selection-end-line="130" selection-end-column="32" />
+            <state relative-caret-position="179">
+              <caret line="365" column="68" selection-start-line="365" selection-start-column="68" selection-end-line="365" selection-end-column="68" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="e#6497#6552#0" expanded="true" />
@@ -161,10 +156,10 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/AccessibleOnlineOrdering.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
+            <state relative-caret-position="139">
               <caret line="140" column="169" selection-start-line="140" selection-start-column="169" selection-end-line="140" selection-end-column="169" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -210,7 +205,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>VR In</find>
       <find>Work</find>
       <find>id=&quot;work&quot;</find>
       <find>geo</find>
@@ -238,8 +232,9 @@
       <find>desi</find>
       <find>design altern</find>
       <find>Design Ideas</find>
-      <find>role</find>
       <find>Design Ideas</find>
+      <find>role</find>
+      <find>wireframe</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -263,8 +258,8 @@
         <option value="$PROJECT_DIR$/MSR.html" />
         <option value="$PROJECT_DIR$/Tactibits.html" />
         <option value="$PROJECT_DIR$/VRwithAI.html" />
-        <option value="$PROJECT_DIR$/smartScheduler.html" />
         <option value="$PROJECT_DIR$/AccessibleOnlineOrdering.html" />
+        <option value="$PROJECT_DIR$/smartScheduler.html" />
       </list>
     </option>
   </component>
@@ -376,12 +371,12 @@
       <workItem from="1547654074845" duration="246000" />
       <workItem from="1547775903762" duration="898000" />
       <workItem from="1550328978889" duration="262000" />
-      <workItem from="1550329362747" duration="2248000" />
+      <workItem from="1550329362747" duration="2566000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="187529000" />
+    <option name="totallyTimeSpent" value="187847000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="821" extended-state="0" />
@@ -636,10 +631,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/AccessibleOnlineOrdering.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="139">
+          <caret line="140" column="169" selection-start-line="140" selection-start-column="169" selection-end-line="140" selection-end-column="169" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#6607#6630#0" expanded="true" />
+            <element signature="e#6706#6761#0" expanded="true" />
+            <element signature="e#8533#8560#0" expanded="true" />
+            <element signature="e#8629#8702#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/smartScheduler.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="130" column="32" lean-forward="true" selection-start-line="129" selection-start-column="32" selection-end-line="130" selection-end-column="32" />
+        <state relative-caret-position="179">
+          <caret line="365" column="68" selection-start-line="365" selection-start-column="68" selection-end-line="365" selection-end-column="68" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="e#6497#6552#0" expanded="true" />
@@ -652,23 +664,6 @@
             <element signature="e#15413#15511#0" expanded="true" />
             <element signature="e#15605#15670#0" expanded="true" />
             <element signature="e#24578#24601#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/AccessibleOnlineOrdering.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="140" column="169" selection-start-line="140" selection-start-column="169" selection-end-line="140" selection-end-column="169" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#a#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#6607#6630#0" expanded="true" />
-            <element signature="e#6706#6761#0" expanded="true" />
-            <element signature="e#8533#8560#0" expanded="true" />
-            <element signature="e#8629#8702#0" expanded="true" />
           </folding>
         </state>
       </provider>
